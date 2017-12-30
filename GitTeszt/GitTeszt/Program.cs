@@ -13,7 +13,6 @@ namespace GitTeszt
             Console.WriteLine("Csak beleírok");
             Console.WriteLine("dobunk egy exception-t");
             throw new Exception();
-            //kkjhkjlhkljfhlkjdfhkljefhlk
-        }
+            vvbfvbfbfg        }
     }
 }
